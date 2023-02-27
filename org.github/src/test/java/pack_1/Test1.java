@@ -7,6 +7,7 @@ public class Test1 {
 	  {
 		 System.out.print(st.charAt(i)); 
 		 System.out.println("executed........");
+		 System.out.println("eclipse1........");
 	  }
 }
 }
